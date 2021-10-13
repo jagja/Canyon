@@ -1,5 +1,4 @@
-"""PART 1: Filter U,W velocity field via POD method.
--> PART 2: Integrate particle paths via Runge-Kutta 4"""
+"""Integrate particle paths via Runge-Kutta 4"""
 import time
 import math
 import argparse
